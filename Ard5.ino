@@ -1,5 +1,5 @@
 /* 
- *  Modified by Dhruv Hegde
+ *  Modified by DDVHegde
  */
  
 #include <SPI.h>
